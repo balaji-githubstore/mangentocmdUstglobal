@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagentoGit", "MagentoGit\MagentoGit.csproj", "{A278DE7B-4895-4F20-A794-6A7DA40E9086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A278DE7B-4895-4F20-A794-6A7DA40E9086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A278DE7B-4895-4F20-A794-6A7DA40E9086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A278DE7B-4895-4F20-A794-6A7DA40E9086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A278DE7B-4895-4F20-A794-6A7DA40E9086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80BE42D5-EF18-4F6A-AAD1-1C4830E78BA1}
+	EndGlobalSection
+EndGlobal
